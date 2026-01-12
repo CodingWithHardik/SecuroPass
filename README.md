@@ -11,3 +11,5 @@ Licensed for non commercial use only. See the [LICENSE](./LICENSE) file for deta
 
 - **API :**  
   https://github.com/CodingWithHardik/SecuroPass-API
+- **Mail Service :**  
+  https://github.com/CodingWithHardik/SecuroPass-Mail_Service
